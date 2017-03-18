@@ -16,3 +16,5 @@ github_username:  abhishekbajpayee
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
